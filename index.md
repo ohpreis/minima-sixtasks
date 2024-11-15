@@ -7,3 +7,24 @@
 #
 layout: home
 ---
+
+> Plan your work for today and every day, then work your plan.<br />
+> <span style="font-size: 90%">Margaret Thatcher </span>
+
+## A different way to manage your day
+
+<img src="assets/images/sixtasks-hero.png" alt="Description" class="hero-image">
+
+__The SixTasks application is designed for simplicity and balance__
+- It streamlines task management
+- Fosters clarity through daily reflection (morning pages)
+- Supports growth through consistent habits (habit builder) 
+
+It’s the perfect companion for anyone looking to achieve more while maintaining focus and well-being.
+
+[Try it now, it’s free!](https://app.sixtasks.com) <span style="font-size: 90%">(for a limited time 😊)</span>
+
+<hr />
+
+### Recent posts/articles
+
