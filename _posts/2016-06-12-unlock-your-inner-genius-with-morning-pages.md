@@ -4,7 +4,7 @@ title: Unlock Your Inner Genius with Morning Pages
 categories: productivity, morning pages
 ---
 
-Picture this: it’s early morning. The birds are chirping, the coffee’s brewing, and there’s you—pen in hand, ready to unleash the chaos in your brain onto paper. That’s the magic of *morning pages*. OK, not pen in hand, but fingers on your keyboard.  
+Picture this: it’s early morning. The birds are chirping, the coffee’s brewing, and there’s you—pen in hand, ready to unleash the chaos in your brain onto paper. That’s the magic of *morning pages*. OK, not pen in hand, but fingers on your keyboard. You are after all using this awesome tool called the internet.
 
 Morning pages are like a mental decluttering session. You write roughly 750 words or three pages worth of whatever pops into your head—complaints, dreams, grocery lists, *that* song stuck in your head—it’s all fair game. There are no rules, no judgment, and no wrong way to do it. Just you, your thoughts, and the sound of your keyboard clicking away.  
 
