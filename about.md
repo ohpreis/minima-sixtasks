@@ -15,4 +15,4 @@ In short, SixTasks is here to help you get the right things done without losing 
     The team behind SixTasks is a small group of friends who believe in the power of simplicity and balance. We’re not productivity gurus or life coaches. We’re just people who want to get stuff done without losing our minds. We hope you’ll join us on this journey to a more focused, balanced life.
 </div>
 
-[Try it, it’s free!](https://app.sixtasks.com)
+[Try it, it’s free!](https://app.sixtasks.com/users/sign_up)

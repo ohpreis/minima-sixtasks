@@ -22,7 +22,7 @@ __The SixTasks application is designed for simplicity and balance__
 
 It’s the perfect companion for anyone looking to achieve more while maintaining focus and well-being.
 
-[Try it now, it’s free!](https://app.sixtasks.com) <span style="font-size: 90%">(for a limited time 😊)</span>
+[Try it now, it’s free!](https://app.sixtasks.com/users/sign_up) <span style="font-size: 90%">(for a limited time 😊)</span>
 
 <hr />
 
